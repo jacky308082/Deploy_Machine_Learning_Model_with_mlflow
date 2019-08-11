@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/Data_Science/mlflow/mlruns/0/76ee96d21b1f423da113b244df8d5fce/artifacts
+end_time: 1565380257677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 76ee96d21b1f423da113b244df8d5fce
+run_uuid: 76ee96d21b1f423da113b244df8d5fce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1565380257570
+status: 3
+tags: []
+user_id: apple
